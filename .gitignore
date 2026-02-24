@@ -1,0 +1,4 @@
+# aqui van todos los ficheros a ignorar
+# **/ indica que da igual donde este este fichero, lo va a ignoroar
+
+**/.DS_Store 
